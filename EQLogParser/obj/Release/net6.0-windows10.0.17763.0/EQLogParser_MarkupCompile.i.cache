@@ -13,7 +13,7 @@ C:\Mine\Code\git\EQLogParser-THJ\EQLogParser\App.xaml
 25-1573300326
 
 76-255412767
-287224944823
+287713745375
 src\ui\breakdown\DamageBreakdown.xaml;src\ui\breakdown\HealingBreakdown.xaml;src\ui\breakdown\TankingBreakdown.xaml;src\ui\chart\GanttChart.xaml;src\ui\chart\HitFreqChart.xaml;src\ui\chart\LineChart.xaml;src\ui\common\ChatViewer.xaml;src\ui\common\FightTable.xaml;src\ui\common\ParsePreview.xaml;src\ui\common\SpellCastTable.xaml;src\ui\common\SpellCountTable.xaml;src\ui\log\EQLogViewer.xaml;src\ui\log\EventViewer.xaml;src\ui\log\HitLogViewer.xaml;src\ui\log\LootViewer.xaml;src\ui\log\NpcStatsViewer.xaml;src\ui\log\RandomViewer.xaml;src\ui\log\SpellDamageStatsViewer.xaml;src\ui\log\TauntStatsViewer.xaml;src\ui\main\MainWindow.xaml;src\ui\main\MessageWindow.xaml;src\ui\main\OverlayWindow.xaml;src\ui\summary\DamageSummary.xaml;src\ui\summary\HealingSummary.xaml;src\ui\summary\TankingSummary.xaml;
 
 True

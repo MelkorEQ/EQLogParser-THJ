@@ -752,10 +752,11 @@ namespace EQLogParser
         {
             string  owner    = attacker.Substring( 0, iCH );
 
-            if( PlayerManager.Instance.IsVerifiedPlayer( owner ) )
-            {
+            //if( PlayerManager.Instance.IsVerifiedPlayer( owner ) )
+            //{
                 PlayerManager.Instance.AddPetToPlayer( attacker, owner );
-            }
+                PlayerManager.Instance.AddVerifiedPet( attacker );
+            //}
         }
 
         if (string.IsNullOrEmpty(attacker))

@@ -220,7 +220,8 @@ namespace EQLogParser
                     {
                         HealingStatsManager.Instance.PopulateHealing(CurrentStats);
                         dataGrid.SelectedItems.Clear();
-                        dataGrid.View.RefreshFilter();
+                        if( dataGrid.View != null )
+                            dataGrid.View.RefreshFilter();
 
                         if (!MainWindow.IsAoEHealingEnabled)
                         {
